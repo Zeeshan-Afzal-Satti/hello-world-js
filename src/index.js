@@ -7,3 +7,6 @@ var hello = function hello() {
 module.exports = {
   hello: hello
 }
+
+console.log('hello')
+console.log('hello1')
